@@ -8,7 +8,7 @@ Artificial Intelligence MSci student at King's College London, building in machi
 - Focused on machine learning, quantitative finance, algorithmic engineering, and applied LLM systems.
 - Preparing my portfolio for Software Engineering and AI internships for **Summer 2027**.
 
-## What I've Built
+## What I have Built
 
 ### Quantitative Finance
 - [black-scholes-options-pricer](https://github.com/amritsinha06072022/black-scholes-options-pricer) — a Black-Scholes-Merton options pricer with live market data, an implied-volatility solver, and an interactive dashboard. **[Live demo](https://black-scholes-options-pricer-amritsinha.streamlit.app/)**.
