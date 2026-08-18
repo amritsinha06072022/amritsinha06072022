@@ -24,7 +24,7 @@ Artificial Intelligence MSci student at King's College London, building in machi
 ### Algorithmic Engineering
 - [chess-engine](https://github.com/amritsinha06072022/chess-engine) — a chess engine built from scratch with negamax and alpha-beta search, quiescence search, a transposition table, and positional evaluation, playable via a pygame GUI or the terminal.
 
-### Mobile Development
+### Mobile Application Development
 - [London-Underground-Path-Finding-Android-Application](https://github.com/amritsinha06072022/London-Underground-Path-Finding-Android-Application) — an Android app that finds the fastest route between Underground stations using Dijkstra's algorithm over an offline SQLite graph of the Tube network.
 
 ## Tech Stack
