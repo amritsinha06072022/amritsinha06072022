@@ -1,6 +1,6 @@
 # Amrit Sinha
 
-Artificial Intelligence MSci student at King's College London, building in machine learning, quantitative finance, and applied AI.
+Artificial Intelligence MSci student at King's College London, interested in machine learning, quantitative finance, and applied AI.
 
 ## About Me
 
