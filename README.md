@@ -28,5 +28,5 @@ Artificial Intelligence MSci student at King's College London, interested in mac
 
 ## Contact
 
-- **LinkedIn:** https://linkedin.com/in/amrit-sinha-271416292
+- **LinkedIn:** https://linkedin.com/in/amritsinhakcl
 - **Email:** amrsin2007@gmail.com
