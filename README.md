@@ -6,6 +6,7 @@ Artificial Intelligence MSci student at King's College London, interested in mac
 
 - Studying **Artificial Intelligence MSci** at **King's College London** (second year, graduating 2029).
 - Focused on machine learning and quantitative finance.
+- Lead Developer at **Path2**
 - Preparing my portfolio for machine learning, software engineering, and quantitative finance internships for **Summer 2027**.
 
 ## My Best Projects
